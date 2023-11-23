@@ -26,7 +26,7 @@ Em seguida daremos o passo de como executar:
 - Utilizei de preferencia o VSCode como IDE de desenvolvimento:
   - [VSCode | Windows | Linux | Mac](https://code.visualstudio.com/download)
 
-- Abra o VSCode e clone o Linck do GitHub:
+- Abra o VSCode e clone o Link do GitHub:
   - [Github](https://github.com/cassiofellipe/teste_escribo_js)
   
 ---------------------------------------------
