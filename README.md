@@ -16,7 +16,7 @@ e 10 que são menores que 11.
 Esse é um dasafio escrito em linguagem JAVASCRIPT com objetivo da resolução do teste acima.
 Em seguida daremos o passo de como executar:
 
-### Como rodar:
+### Como rodar instalação:
 
 - Instalação do NodeJS na máquina local: 
   - [NodeJS | Windows](https://nodejs.org/dist/v20.10.0/node-v20.10.0-x64.msi) 
@@ -29,10 +29,14 @@ Em seguida daremos o passo de como executar:
 - Abra o VSCode e clone o Link do GitHub:
   - [Github](https://github.com/cassiofellipe/teste_escribo_js)
   
+  
 ---------------------------------------------
 
   ### Como testá-lo:
 
 - Abra o terminal ( ctrl + j ) e digite:
   - node ./main.js
+
+- Digite o numero: 10
+  - A respostas tem que retornar "23"
 
